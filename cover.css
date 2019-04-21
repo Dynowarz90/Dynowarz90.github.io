@@ -40,6 +40,15 @@ body {
 
 .cover-container {
   max-width: 42em;
+  background-image: url(images/nail-gilfanov-527808-unsplash.jpg);
+   /* Set a specific height */
+   height: 50%;
+
+   /* Position and center the image to scale nicely on all screens */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
 }
 
 
