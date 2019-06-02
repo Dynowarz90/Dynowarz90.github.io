@@ -28,8 +28,6 @@ html,
 body {
   height: 100%;
   background-color: #333;
-<<<<<<< HEAD
-=======
   background-image: url("images/nail-gilfanov-527808-unsplash.jpg");
 
   /* Position and center the image to scale nicely on all screens */
@@ -37,7 +35,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
->>>>>>> 46c330150987dbc4b9b1d4214acb31226bf7c98c
+
 }
 
 body {
@@ -46,16 +44,6 @@ body {
   color: #fff;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-<<<<<<< HEAD
-  background: url("images/nail-gilfanov-527808-unsplash.jpg");
-
-   /* Position and center the image to scale nicely on all screens */
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-   position: relative;
-=======
->>>>>>> 46c330150987dbc4b9b1d4214acb31226bf7c98c
 }
 
 .cover-container {
